@@ -38,6 +38,34 @@ PhishGuard AI provides automated first-pass triage that:
 
 ## Why This Project Matters
 
+## Screenshots
+
+### Dashboard Home
+![Dashboard Home](docs/screenshots/01-dashboard-home.png)
+
+### Phishing Detection Result
+![Phishing Detection Result](docs/screenshots/02-phishing-risk-score.png)
+
+### Business Email Compromise Detection
+![Business Email Compromise Detection](docs/screenshots/05-bec-risk-score.png)
+
+### Low-Confidence ML Handling
+![Low-Confidence ML Handling](docs/screenshots/08-low-confidence-ml.png)
+
+### Legitimate Email Result
+![Legitimate Email Result](docs/screenshots/10-legitimate-email-result.png)
+
+### FastAPI Documentation
+![FastAPI Documentation](docs/screenshots/12-fastapi-docs.png)
+
+### Backend Tests Passing
+![Backend Tests Passing](docs/screenshots/13-backend-tests-passed.png)
+
+### Frontend Build Passing
+![Frontend Build Passing](docs/screenshots/14-frontend-build-passed.png)
+
+---
+
 ### Government & Public Sector Use Case
 Federal agencies, state governments, and defense contractors are prime targets
 for spear-phishing and BEC attacks. Tools like PhishGuard AI align with:
