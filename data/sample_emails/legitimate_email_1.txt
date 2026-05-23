@@ -1,0 +1,41 @@
+============================================================
+SYNTHETIC SAMPLE EMAIL — FOR TESTING PURPOSES ONLY
+This is a fabricated legitimate email example. Not a real email.
+============================================================
+
+From: sarah.mitchell@acmecorp.com
+To: john.smith@acmecorp.com
+Subject: Q2 Performance Review — Scheduled for June 3rd
+Date: Mon, 20 May 2024 09:00:00 +0000
+
+Hi John,
+
+I wanted to reach out to confirm your Q2 performance review is scheduled for
+Tuesday, June 3rd at 2:00 PM in Conference Room 4B.
+
+Please take a few minutes before the meeting to complete your self-assessment
+form in the HR portal. The form should be submitted by end of day on Friday,
+May 31st so we have time to review your responses in advance.
+
+A few things to think about:
+
+  1. Key accomplishments from Q1 and Q2
+  2. Goals progress against your development plan
+  3. Areas where you'd like additional support or resources
+  4. Any feedback you'd like to share about your team or projects
+
+Let me know if you have any scheduling conflicts and we'll find an alternative
+time that works for both of us.
+
+Looking forward to catching up,
+
+Sarah Mitchell
+HR Business Partner
+ACME Corporation
+sarah.mitchell@acmecorp.com
++1 (555) 200-4400 ext. 221
+
+============================================================
+NOTE: This is a SYNTHETIC legitimate email example created for PhishGuard AI
+testing. No suspicious indicators should be triggered by this email.
+============================================================

@@ -1,0 +1,41 @@
+============================================================
+SYNTHETIC SAMPLE EMAIL — FOR TESTING PURPOSES ONLY
+This is a fabricated example. Not a real email.
+============================================================
+
+From: security-noreply@paypa1-secure.verify-account.net
+Reply-To: harvest@attacker-controlled.net
+To: john.doe@company.com
+Subject: URGENT: Your PayPal Account Has Been Suspended — Verify Immediately
+Date: Mon, 20 May 2024 10:23:44 +0000
+Message-ID: <fake-msg-001@paypa1-secure.verify-account.net>
+
+Dear Customer,
+
+We have detected suspicious activity on your PayPal account and have temporarily
+suspended your access for your protection.
+
+IMMEDIATE ACTION REQUIRED
+
+Your account will be permanently closed within 24 hours if you do not verify
+your identity. Failure to verify will result in all pending transactions being
+reversed and your account being referred to our fraud team.
+
+Verify your account now:
+http://paypa1-secure.verify-account.net/confirm?user=john.doe&token=abc123xyz
+
+You must provide:
+- Full name
+- Email address and password
+- Billing address
+- Credit or debit card details
+
+This is a final notice. Do not ignore this message.
+
+PayPal Security Team
+© 2024 PayPal, Inc. | Account Security Division
+
+============================================================
+NOTE: This is a SYNTHETIC example created for PhishGuard AI testing.
+No real credentials should ever be entered on links from unsolicited emails.
+============================================================

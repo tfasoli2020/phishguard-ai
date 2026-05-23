@@ -1,0 +1,23 @@
+From: newsletter@shopdeals.example.com
+To: subscriber@example.com
+Subject: Summer Sale — Up to 40% off this weekend only
+Date: Fri, 17 May 2024 14:00:00 +0000
+
+Hi there,
+
+Our biggest sale of the season starts tomorrow! Shop thousands of items at
+up to 40% off — limited time only.
+
+Top deals this weekend:
+  - Clothing & Accessories — 30% off
+  - Electronics — up to 25% off select items
+  - Home & Garden — 40% off clearance
+
+Browse deals: http://shopdeals.example.com/sale?ref=newsletter_may24
+
+To manage your email preferences or unsubscribe, visit:
+http://shopdeals.example.com/preferences
+
+ShopDeals Inc.
+123 Commerce St, Suite 400
+New York, NY 10001

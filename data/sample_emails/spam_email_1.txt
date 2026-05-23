@@ -1,0 +1,36 @@
+============================================================
+SYNTHETIC SAMPLE EMAIL — FOR TESTING PURPOSES ONLY
+This is a fabricated spam example. Not a real email.
+============================================================
+
+From: deals@super-savings-unlimited.net
+To: user@example.com
+Subject: YOU HAVE BEEN SELECTED! Claim Your $500 Amazon Gift Card TODAY!
+Date: Mon, 20 May 2024 12:00:00 +0000
+
+CONGRATULATIONS!!!
+
+You have been selected as a winner in our monthly sweepstakes!
+
+Claim your $500 Amazon Gift Card — LIMITED TIME OFFER — expires tonight!
+
+Also, you are pre-approved for our exclusive opportunity:
+- Work from home and earn $4,000-$8,000 per week
+- No experience required
+- Start immediately
+- Lose 30 lbs in 30 days with this one simple trick
+
+CLICK NOW to claim your prize before it expires:
+http://claim-your-prize.super-savings-unlimited.net/winner?id=12345
+
+This offer will not last. ACT NOW.
+
+You received this because you signed up at some point. To stop receiving
+these emails, click unsubscribe below (results may vary).
+
+Unsubscribe | Privacy Policy | Terms and Conditions
+
+============================================================
+NOTE: This is a SYNTHETIC spam example created for PhishGuard AI testing.
+Indicators: prize scam, too-good-to-be-true offer, urgency, unsolicited.
+============================================================
